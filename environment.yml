@@ -103,14 +103,4 @@ dependencies:
   - wcwidth=0.2.5=pyhd3eb1b0_0
   - wheel=0.37.1=pyhd3eb1b0_0
   - xz=5.2.5=h7f8727e_1
-  - zlib=1.2.12=h7f8727e_2
-  - zstd=1.5.2=ha4553b6_0
-  - pip:
-    - charset-normalizer==2.0.12
-    - docopt==0.6.2
-    - idna==3.3
-    - pipreqs==0.4.11
-    - requests==2.27.1
-    - urllib3==1.26.9
-    - yarg==0.1.9
 prefix: /home/yiruwang/anaconda3/envs/ds
